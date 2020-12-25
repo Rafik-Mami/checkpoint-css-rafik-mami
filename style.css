@@ -1,0 +1,25 @@
+*{
+    font-size:large;
+
+}
+header{
+    width: 100%;
+    height: 100%;
+padding: 30px;
+margin:20px;
+display:block;
+
+}
+
+.logo{
+    
+    display: inline;
+    background: red;
+    float: left;
+}
+.navbar{
+    padding: 30px;
+    display: inline;
+    background: green;
+    float: left;
+}
